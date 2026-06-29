@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:0f172a,40:1e1b4b,60:4c1d95,80:7c3aed,100:a78bfa&height=250&section=header&text=Youssef Haitham %20Mahmoud Ahmed&fontSize=80&fontColor=f5f3ff&fontAlignY=32&animation=fadeIn&desc=AI%20Engineer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Full-Stack%20Developer&descSize=16&descColor=c4b5fd&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:0f172a,40:1e1b4b,60:4c1d95,80:7c3aed,100:a78bfa&height=250&section=header&text=Youssef%20Haitham&fontSize=80&fontColor=f5f3ff&fontAlignY=32&animation=fadeIn&desc=AI%20Engineer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Full-Stack%20Developer&descSize=16&descColor=c4b5fd&descAlignY=55"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=Building+AI+and+Full+Stack+Projects+End-to-End;Designing+and+Deploying+Machine+Learning+Solutions;Developing+Scalable+Web+Applications+and+APIs" alt="Typing SVG" />
