@@ -1,10 +1,10 @@
 <div align="center">
 
-Youssef Haitham Mahmoud Ahmed
+Hi, I'm Youssef Haitham 👋
 
-AI & Robotics Engineering Student | LLM Applications · RAG · Machine Learning · Embedded Systems
+AI & Robotics Engineering Student | LLMs · RAG · Machine Learning · Embedded Systems
 
-Building practical AI prototypes across agriculture, medical information, education, and intelligent systems.
+I build practical AI prototypes that connect data, domain knowledge, and user-facing applications.
 
 
 
@@ -16,86 +16,95 @@ Portfolio: Add your published GitHub Pages URL here
 
 About Me
 
-I'm an Engineering student at New Ismailia National University, Egypt, focused on Artificial Intelligence and Robotics. My interests include LLM applications, retrieval-augmented generation (RAG), machine learning, NLP, and embedded systems. I like working across the full prototype workflow: understanding a problem, preparing data or reference material, connecting retrieval and model logic, evaluating behavior, and presenting the result through an application.
+I'm an Artificial Intelligence and Robotics Engineering student at New Ismailia National University, Egypt. My interests include AI engineering, language technologies, retrieval-augmented generation, machine-learning experimentation, and embedded systems.
+
+I enjoy working across the full prototype workflow: understanding a problem, preparing data or reference material, connecting models and retrieval, evaluating behavior, and presenting the result through an application interface.
 
 🌱 Current focus: LLM applications, RAG pipelines, and domain-specific assistants.
 
-🌾 Agriculture: Tayseer AgriSat agricultural assistant project.
+🧪 AI projects: agricultural support, reference-grounded medical information, and educational NLP.
 
-🩺 Medical information: MEDIAI and SmartMed AI projects; educational/prototype use only, not clinically validated.
-
-📚 NLP: educational chatbot and question/answer evaluation experiments.
-
-🤖 Embedded systems: AVR/Arduino line-following car with Bluetooth control.
+🤖 Embedded systems: AVR/Arduino, line-following robot car, and Bluetooth control.
 
 🏆 Team achievement: 3rd place at Canal Startup Sprint with the Tayseer AgriSat team.
+
+📚 Training: ITI, NTI, and LLM/RAG training with Tips Hidhawi.
 
 Featured Projects
 
 🌱 Tayseer AgriSat — Agricultural AI Assistant
 
-A domain-focused agricultural assistant project. The broader concept connects agricultural knowledge and conversational support with satellite-driven farm insights. Focus: LLM applications · RAG · Agricultural analytics.
+A domain-focused agricultural assistant concept combining agricultural knowledge and conversational support with satellite-driven farm insights.
+Focus: LLM applications · RAG · Agricultural analytics
+Explore repository
 
-🩺 MEDIAI — Medical AI
+🩺 Reference-Grounded Medical Information Chatbot
 
-A medical-focused AI project. See the repository for current implementation details, reference workflow, and demo. Medical AI outputs should be treated as informational prototypes, not professional diagnosis.
-
-🏥 SmartMed AI
-
-A medical-report understanding project exploring AI-assisted explanations and retrieval-based knowledge access. It is not a clinically validated diagnostic system.
-
-📊 Random Forest Optimization using PSO & GWO
-
-Compares baseline Random Forest with Particle Swarm Optimization and Grey Wolf Optimizer for Iris classification. The repository reports 90.00% baseline accuracy, 96.67% PSO accuracy, and 93.33% GWO accuracy.
+A medical-information chatbot prototype designed to answer from supplied reference material and indicate the source behind its responses. It is not clinically validated and is not a replacement for professional medical care.
+Focus: RAG · LLM applications · Source traceability
+Browse my repositories
 
 📚 Educational NLP Chatbot
 
-An educational chatbot project focused on generating questions from study materials and evaluating answers using semantic similarity.
+Generates True/False and essay questions from study materials and evaluates answers using semantic similarity.
+Focus: NLP · Question generation · Semantic similarity
+Explore repository
 
-🏡 AI & IoT Smart Home Assistance
+⚙️ Random Forest Optimization with PSO & GWO
 
-A collaborative intelligent-home-assistance project intended to support users with disabilities. See the repository for implementation and contribution details.
+An Iris-classification experiment comparing baseline Random Forest with Particle Swarm Optimization and Grey Wolf Optimizer for hyperparameter tuning. The project includes preprocessing and model-evaluation visualizations.
+Reported accuracy: 90% baseline · 96.67% PSO · 93.33% GWO
+Explore repository
 
-🎚️ DSP Filter Design
+🤖 AVR / Arduino Line-Following Car
 
-Digital signal processing project focused on filter design and signal analysis.
+A training project combining line-following behavior with Bluetooth control, applying embedded-systems concepts and hardware/software integration.
+Browse my repositories
 
-🤖 AVR / Arduino Smart Car
+🏥 LifeCare Hospital Management System
 
-A training project combining line-following behavior and Bluetooth control. A demo video will be linked once uploaded.
+A software project focused on hospital-management workflows.
+Explore repository
 
 Technical Toolkit
 
-AI & Language: Machine Learning, Deep Learning fundamentals, NLP, LLM applications, RAG, prompt engineering, chatbot development, semantic similarity, model evaluation.
+AI & Language Technologies
+Machine Learning · Deep Learning fundamentals · NLP · LLM applications · Generative AI · RAG · Prompt Engineering · Chatbot Development · Semantic Similarity · Model Evaluation · Hyperparameter Tuning
 
-Programming & Data: Python, SQL, C, Pandas, NumPy, Matplotlib, Jupyter Notebook, Git, GitHub, HTML, CSS.
+Programming & Data
+Python · SQL · C · Pandas · NumPy · Matplotlib · Jupyter Notebook · Git · GitHub · HTML · CSS
 
-Embedded & Engineering: AVR, Arduino, Bluetooth control, line-following robot, hardware/software integration, signal processing.
+Embedded Systems
+AVR · Arduino · Bluetooth Control · Line-Following Robot · Hardware/Software Integration
 
 Training & Education
 
-New Ismailia National University — Engineering studies with a focus on Artificial Intelligence and Robotics.
+New Ismailia National University — B.Eng. in Electrical Engineering, specialization in Artificial Intelligence and Robotics (expected 2028).
 
-ITI — Embedded Systems Level 1 (AVR), including a line-following and Bluetooth-controlled car project.
+ITI — Embedded Systems Level 1 (AVR), AI / Chatbot / LLM / Generative AI training.
 
-Tips Hidhawi — LLM and RAG training/project work, including agricultural assistant development.
+Tips Hidhawi — LLMs and Retrieval-Augmented Generation (RAG).
 
-NTI — NLP training and educational chatbot project.
+NTI — NLP Summer Training (120 hours, reported score 94.5%) and Machine Learning training.
 
-Additional learning and project experience in machine learning, deep learning, and generative AI.
+TIEC & iSpark — InnovEgypt Entrepreneurship Program.
+
+Harvard CS50 — Introduction to Computer Science.
 
 Achievements
 
-🏆 3rd Place — Canal Startup Sprint, Tayseer AgriSat team.
+🏆 3rd Place — Canal Startup Sprint, Tayseer AgriSat team (2026).
 
-🚀 Top Achiever — InnovEgypt Program.
+🚀 Top Achiever — InnovEgypt Program (2026).
 
-🥇 Engineering project achievement — Research-based academic competition.
+🥇 1st Place — Engineering competition for a research-based academic project (2025).
 
 Let's Connect
 
+I'm interested in opportunities and collaborations related to AI engineering, LLM/RAG applications, machine learning, and intelligent systems.
+
 LinkedIn: https://www.linkedin.com/in/youssef-haitham-mahmoud-9852b5395/
 
-Email: YusefHaisam57@example.com
+Email: YusefHaisam57@gmail.com
 
-Project descriptions should reflect the current repository implementation and my exact contribution. Medical projects shown here are prototypes and are not clinically validated.
+Note: Project summaries describe prototypes and training/academic work. Check each repository for implementation details, current status, and the exact contribution made. Medical information tools shown here are not clinically validated.
